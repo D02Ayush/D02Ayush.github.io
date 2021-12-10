@@ -6,10 +6,10 @@ entries:
     created: "2021-12-10T07:53:52.916152343Z"
     dependencies:
     - name: pages-api
-      repository: https://yourgithubuserid.github.io/
+      repository: https://d02ayush.github.io/
       version: 1.x.x
     - name: mysql
-      repository: https://yourgithubuserid.github.io/
+      repository: https://d02ayush.github.io/
       version: 1.x.x
     description: A Helm chart for Pages Application
     digest: f628e80929b70f04418b878456220d477d714ca738a5ce64f135608832f93423
